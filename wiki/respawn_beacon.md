@@ -7,21 +7,14 @@ Respawn Beacon
 * Build Cost: `5 Ore`
 * Ore Dropped on Destruction: `1 Ore`
 
-#### Services Offered
+#### Uses
 
 Owner or Corp Members can respawn on the Beacon.
 
-#### Owner Information
-
-Only one Respawn Beacon can exist at a time, if a second is created the original will be destroyed.
-
-#### Origin
-
-The Respawn Beacon is one of the original structures from v1.0.
 Contributors
 ============
 
-- Graphyte
+- Harrison
 
-##### Page last edited on 10/14/16
+##### Page last edited on 12/16/16 (Version 1.5, The Benovolent Bearded Dragon)
 
